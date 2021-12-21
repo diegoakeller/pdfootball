@@ -6,8 +6,8 @@
     background-color: white;
     border-style: none;
     padding: 10px;
-    position: fixed;
     margin: auto;
+    text-align: center;
 }
 
 div.navbar {
