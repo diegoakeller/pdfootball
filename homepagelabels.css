@@ -22,7 +22,7 @@ li.nav {
     float: left;
 }
 
-li.nav {
+li a.nav {
     display: block;
     color: white;
     text-align: center;
@@ -30,9 +30,9 @@ li.nav {
     text-decoration: none;
 }
 
-
-/* Change the link color to #111 (black) on hover */
-
-li a.nav:hover {
+li a:hover.nav {
     background-color: #111;
 }
+
+
+/* Change the link color to #111 (black) on hover */
